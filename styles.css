@@ -84,6 +84,7 @@ dd{margin:0}
 
 .mid{display:grid;gap:1.2rem;align-self:center} /* summary + small group photo between the posters */
 .mid .card-img{aspect-ratio:3/2}
+.photo-caption{padding:.7rem 1rem .9rem;font-size:1.05rem;font-style:italic;line-height:1.4;text-align:center}
 .mid .card-img img{object-fit:cover;object-position:center bottom}
 
 /* ---------- Experience ---------- */
